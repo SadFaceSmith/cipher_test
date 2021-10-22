@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 
+# author: ethan@redhat.com
 # OpenSSL requires the port number.
 SERVER=$1
 DELAY=1
