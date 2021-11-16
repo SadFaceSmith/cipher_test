@@ -27,5 +27,5 @@ Testing AECDH-AES256-SHA...NO (sslv3 alert handshake failure)
 Testing ADH-AES256-GCM-SHA384...NO (sslv3 alert handshake failure)
 Testing ADH-AES256-SHA256...NO (sslv3 alert handshake failure)
 Testing ADH-AES256-SHA...NO (sslv3 alert handshake failure)
-<outout truncated>
+<output truncated>
 ```
