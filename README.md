@@ -6,6 +6,7 @@ This script will test a SSL/TLS endpoint with the ciphers supported by `openssl 
 ### Example use
 ``` 
 ./cipher.sh redhat.com:443
+
 Obtaining cipher list from LibreSSL 2.8.3.
 Testing ECDHE-RSA-AES256-GCM-SHA384...YES
 Testing ECDHE-ECDSA-AES256-GCM-SHA384...NO (sslv3 alert handshake failure)
