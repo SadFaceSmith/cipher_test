@@ -6,7 +6,7 @@ SERVER=$1
 DELAY=1
 ciphers=$(openssl ciphers 'ALL:eNULL' | sed -e 's/:/ /g')
 
-echo Obtaining cipher list from $(openssl version).
+echo Obtaining cipher list from $(openssl version). 
 
 for cipher in ${ciphers[@]}
 do
